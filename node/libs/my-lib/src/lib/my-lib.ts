@@ -1,3 +1,5 @@
-export function myLib(): string {
-  return 'my-lib';
+type Custom = void;
+
+export function myLib(): Custom {
+  console.log('my-lib hello world');
 }

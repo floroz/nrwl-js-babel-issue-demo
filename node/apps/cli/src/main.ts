@@ -1,1 +1,7 @@
-console.log('Hello World!');
+import { myLib } from '@node/my-lib';
+
+function run() {
+  myLib();
+}
+
+run();
