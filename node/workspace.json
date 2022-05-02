@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "cli": "apps/cli",
+    "my-lib": "libs/my-lib"
+  }
+}
