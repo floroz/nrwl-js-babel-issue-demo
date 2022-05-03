@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "angular": "apps/angular",
+    "my-lib": "libs/my-lib"
+  }
+}
